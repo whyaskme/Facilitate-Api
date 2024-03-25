@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Development Repos\\Facilitate-Api\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CB5518FC-25BD-40C8-9238-896EFB2C62AF}|Api.csproj|d:\\development repos\\facilitate-api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CB5518FC-25BD-40C8-9238-896EFB2C62AF}|Api.csproj|solutionrelative:api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,19 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Api",
-              "DocumentMoniker": "D:\\Development Repos\\Facilitate-Api\\Api.csproj",
-              "RelativeDocumentMoniker": "Api.csproj",
-              "ToolTip": "D:\\Development Repos\\Facilitate-Api\\Api.csproj",
-              "RelativeToolTip": "Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-25T16:23:55.384Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
