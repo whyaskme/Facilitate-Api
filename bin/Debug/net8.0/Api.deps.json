@@ -73,6 +73,14 @@
           }
         }
       },
+      "Json.Net/1.0.33": {
+        "runtime": {
+          "lib/netstandard2.0/Json.Net.dll": {
+            "assemblyVersion": "1.0.33.1",
+            "fileVersion": "1.0.33.1"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Cryptography.Internal/2.0.0": {},
       "Microsoft.AspNetCore.DataProtection/2.0.0": {
         "dependencies": {
@@ -1075,6 +1083,7 @@
         "dependencies": {
           "AspNetCoreCompatibility": "1.1.0",
           "CookieManager": "2.0.1",
+          "Json.Net": "1.0.33",
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "8.0.2",
           "MongoDB.Bson": "2.24.0",
@@ -1134,6 +1143,13 @@
       "sha512": "sha512-4H/f2uYJOZ+YObZjpY9ABrKZI+JNw3uizp6oMzTXwDw6F+2qIPhpRl/1t68O/6e98+vqNiYGu+lswmwdYUy3gg==",
       "path": "dnsclient/1.6.1",
       "hashPath": "dnsclient.1.6.1.nupkg.sha512"
+    },
+    "Json.Net/1.0.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5tE+db6BqhRAvITIVBeRsQorLGshPExfm4FmMRvWWAfs4RxeTbFFj2PIEybwmMW0qR30HKkXDYhq0YkDK2Jtxw==",
+      "path": "json.net/1.0.33",
+      "hashPath": "json.net.1.0.33.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/2.0.0": {
       "type": "package",

@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Libraries\Libraries.csproj" />
+    <ProjectReference Include="..\Facilitate-Libraries\Libraries.csproj" />
   </ItemGroup>
 
 </Project>
